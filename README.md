@@ -11,6 +11,7 @@
 
 ## 📚 Certificados
 - Python Essentials 1 – Cisco
+[Ver certificado](https://www.netacad.com/certificates/?issuanceId=c0ff2bbe-b1e1-40f3-98ee-7c82fe61c54c)
 - Python Essentials 2 – Cisco
 - Introducción a Ciberseguridad – Cisco
 
