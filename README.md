@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Anderson
 
-<!--
-**anderson569/anderson569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Desarrollo de Software  
+🌱 Actualmente aprendiendo Python y Desarrollo Web Basico  
+🔐 Me encantaria aprender Ciberseguridad  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que estoy aprendiendo
+- Python
+- Git & GitHub
+- Programación Web básica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certificados
+- Python Essentials 1 – Cisco
+- Python Essentials 2 – Cisco
+- Introducción a Ciberseguridad – Cisco
+
+## 📈 Actualmente
+
+- Construyendo mi portafolio
+- Aprendiendo proyectos en Python
+
+## 🎯 Objetivo
+- Convertirme en desarrollador y crear proyectos útiles. 
+- Aprender nuevas Tecnologías.
+
+⭐ Siempre aprendiendo algo nuevo
